@@ -1,0 +1,66 @@
+# view AndroidManifest.xml #generated:43
+-keep class com.org.android.diary.activity.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class com.org.android.diary.activity.AccessActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:68
+-keep class com.org.android.diary.activity.AddDiaryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.org.android.diary.activity.AdviceActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:103
+-keep class com.org.android.diary.activity.CheckPassActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.org.android.diary.activity.ConfirmPassActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.org.android.diary.activity.DetailDiaryInfoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.org.android.diary.activity.GraphicPassSetActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.org.android.diary.activity.HelpActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:73
+-keep class com.org.android.diary.activity.LookDiaryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:38
+-keep class com.org.android.diary.activity.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.org.android.diary.activity.SearchDiaryActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:53
+-keep class com.org.android.diary.activity.SetBackgroundActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:83
+-keep class com.org.android.diary.activity.SetPasswordActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.org.android.diary.activity.SetRemindActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class com.org.android.diary.activity.WelcomeActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.org.android.diary.receiver.MyReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.org.android.diary.service.MyService { <init>(...); }
+
+# view res/layout/check_pass.xml #generated:10
+# view res/layout/confim_graphic_pass.xml #generated:9
+# view res/layout/graphic_pass.xml #generated:9
+-keep class com.org.android.diary.view.LockPatternView { <init>(...); }
+
+# view res/layout/diary_view.xml #generated:15
+# view res/layout/diary_view.xml #generated:33
+# view res/layout/diary_view.xml #generated:48
+# view res/layout/diary_view.xml #generated:64
+# view res/layout/diary_view.xml #generated:79
+-keep class com.org.android.diary.view.MyWin8Button { <init>(...); }
+
